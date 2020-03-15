@@ -1,5 +1,5 @@
 # anie
-Anie es un chatbox de WhatsApp para funcionar en node.js
+Anie es un ChatBot de WhatsApp para funcionar bajo node.js
 
 Monitoriza mensajes entrantes e identifica ordenes para responder con la información requerida.
 
